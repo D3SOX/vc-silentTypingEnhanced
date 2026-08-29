@@ -1,3 +1,6 @@
+> [!WARNING]
+> I'm not using Discord anymore because of privacy concerns. So my plugins are unmaintained and provided "as is". Feel free to fork, fix, improve, etc...
+
 # SilentTyping
 
 Enhanced version of SilentTyping with the feature to disable it for specific guilds or users
